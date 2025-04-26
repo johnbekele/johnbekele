@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate full Stack developer from Ethiopia currently live in poland</h3>
+<h3 align="center">A passionate full Stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnbekele&label=Profile%20views&color=0e75b6&style=flat" alt="johnbekele" /> </p>
 
