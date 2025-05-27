@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate full Stack developer </h3>
+<h3 align="center">A Creative Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnbekele&label=Profile%20views&color=0e75b6&style=flat" alt="johnbekele" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Book memories social media for books lovers and i am hoping to expand it to undergroiund book publishsing platform](https://book-and-memories.vercel.app/)
 
-- 🌱 I’m currently learning **Electron Js ,Next Js , ML ,LLM**
+- 🌱 I’m currently learning **Terraform **
 
 - 👯 I’m looking to collaborate on **on ERP project i am creating using Next js**
 
