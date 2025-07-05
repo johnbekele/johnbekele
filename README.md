@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Terraform **
 
-- 👯 I’m looking to collaborate on **on ERP project i am creating using Next js**
+- 👯 I’m looking to collaborate on **on ERP SaaS project i am creating using Next js**
 
-- 🤝 I’m looking for help with **Ai integration specially using Amharic language**
+- 🤝 I’m looking for help with **Ai Traning Advice on traning non famuse languages  specially "Amharic language "**
 
 - 👨‍💻 All of my projects are available at [yohansportifolio.vercel.app](yohansportifolio.vercel.app)
 
-- 💬 Ask me about **React ,Express , Mongo db , Postgress ,bash**
+- 💬 Ask me about **React ,Express , Mongo db , Postgress ,bash ,python ,AWS CI/CD ,Docker **
 
 - 📫 How to reach me **yohans.demisie@gmail.com**
 
