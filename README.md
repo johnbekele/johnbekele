@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Book memories social media for books lovers and i am hoping to expand it to undergroiund book publishsing platform](https://book-and-memories.vercel.app/)
 
-- 🌱 I’m currently learning **Terraform **
+- 🌱 I’m currently learning **AWS Cloud Practice  **
 
 - 👯 I’m looking to collaborate on **on ERP SaaS project i am creating using Next js**
 
