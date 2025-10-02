@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **on ERP SaaS project i am creating using Next js**
 
-- 🤝 I’m looking for help with **Ai Traning Advice on traning non famuse languages  specially "Amharic language "**
+- 🤝 I’m looking for help with **Ai Traning Advice on traning AI on not famous language specially "Amharic language "**
 
 - 👨‍💻 All of my projects are available at [yohansportifolio.vercel.app](yohansportifolio.vercel.app)
 
