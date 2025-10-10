@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Ai Traning Advice on traning AI on not famous language specially "Amharic language "**
 
-- 👨‍💻 All of my projects are available at [yohansportifolio.vercel.app](yohansportifolio.vercel.app)
+- 👨‍💻 All of my projects are available at [yohansportifolio.vercel.app](https://yohansportifolio.vercel.app/))
 
 - 💬 Ask me about **React ,Express , Mongo db , Postgress ,bash ,python ,AWS CI/CD ,Docker **
 
