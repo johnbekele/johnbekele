@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Book memories social media for books lovers and i am hoping to expand it to undergroiund book publishsing platform](https://book-and-memories.vercel.app/)
 
-- 🌱 I’m currently learning **AWS Cloud Practice  **
+- 🌱 I’m currently learning **AWS Cloud Practice and LLM orchestration  **
 
-- 👯 I’m looking to collaborate on **on ERP SaaS project i am creating using Next js**
+- 👯 I’m looking to collaborate on **On any LLM project **
 
-- 🤝 I’m looking for help with **Ai Traning Advice on traning AI on not famous language specially "Amharic language "**
+- 🤝 I’m looking for help with **Ai Traning Advice on traning AI on not famous language **
 
 - 👨‍💻 All of my projects are available at [yohansportifolio.vercel.app](https://yohansportifolio.vercel.app/))
 
