@@ -34,7 +34,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbekele&langs_count=10&layout=compact" alt="johnbekele" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnbekele&show_icons=true&locale=en" alt="johnbekele" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbekele&langs_count=10&layout=compact&cache_seconds=1800" alt="johnbekele" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnbekele&" alt="johnbekele" /></p>
 
