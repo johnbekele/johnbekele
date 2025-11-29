@@ -38,4 +38,3 @@
 
 
 
-fix the content isn't fetche what percet of the language i am using more in percent 
