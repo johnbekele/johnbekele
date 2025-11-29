@@ -1,41 +1,106 @@
-# Hi 👋, I'm John Bekele
+# 🌟 **John Bekele**
 
-### A seasoned Javascript developer
+### *Seasoned JavaScript Developer • Cloud & AI Enthusiast*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnbekele" alt="johnbekele" /></a> </p>
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=John%20Bekele&fontSize=65&fontAlignY=35&animation=fadeIn" />`{=html}
+```{=html}
+</p>
+```
+## 👋 **About Me**
 
-- 🔭 I'm currently working on **LLM based application for Thomson reuters **
+-   🔭 Currently building an **LLM-powered application for Thomson
+    Reuters**
+-   🌱 Learning: **Terraform**, **AWS best practices**, **AWS CI/CD**,
+    **AWS AI/ML pipeline**, **Claude Agent SDK**
+-   👯 Open to collaborating on:\
+    📚 **Book Memories** --- platform to share book experiences &
+    connect with readers\
+    👉 https://github.com/johnbekele/Book-and-Memories.git\
+-   🤝 Looking for help with **system design**
+-   💬 Ask me about:\
+    **React, Node.js, Express, FastAPI, React Query, Tailwind,
+    LangChain, AWS, App Monitoring**
+-   📫 Reach me: **yohansdemisie@gmail.com**
+-   ⚡ Fun fact: *I love creating challenging projects --- corny, but
+    true!*
+-   👨‍💻 Portfolio & Projects: https://yohansportifolio.vercel.app/\
+-   📄 Experience: https://yohansportifolio.vercel.app/
 
-- 🌱 I'm currently learning **terrafom , AWS best practice ,AWS CI/CD pipeline , AWS AI/ML pipe line , Claude agent SDK , **
+## 🚀 **Tech Stack**
 
-- 👯 I'm looking to collaborate on **Book memories here people can share their experiences with books, discover new reads, and connect with others who share similar interests https://github.com/johnbekele/Book-and-Memories.git**
+### **Languages & Frameworks**
 
-- 🤝 I'm looking for help with **learning system design **
-
-- 💬 Ask me about **React, React Query, Tailwind CSS, Node.js, Express.js, FastAPI, LangChain, AWS Services, Cloud Practice, Application Monitoring , Web Application development **
-
-- 📫 How to reach me **yohansdemisie@gmail.com**
-
-- ⚡ Fun fact **I love creating staff challeging my self ....sound corny but it's True **
-
-- 👨‍💻 All of my projects are available at **[https://yohansportifolio.vercel.app/](https://yohansportifolio.vercel.app/)**
-
-- 📄 Know about my experiences **[https://yohansportifolio.vercel.app/](https://yohansportifolio.vercel.app/)**
-
-<h3 align="left">Connect with me:</h3>
+```{=html}
 <p align="left">
-<a href="https://github.com/johnbekele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="johnbekele" height="30" width="40" /></a>
+```
+`<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,nodejs,express,fastapi,django,flask,html,css,sass,tailwind&perline=10" />`{=html}
+```{=html}
 </p>
+```
+### **Cloud, DevOps & Tools**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbekele&langs_count=10&layout=compact" alt="johnbekele" />
+```{=html}
+<p align="left">
+```
+`<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,heroku,firebase,linux,bash,git,github,gitlab,terraform&perline=10" />`{=html}
+```{=html}
 </p>
+```
+### **Databases**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbekele&langs_count=10&layout=compact&cache_seconds=1800" alt="johnbekele" />
+```{=html}
+<p align="left">
+```
+`<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=10" />`{=html}
+```{=html}
 </p>
+```
+### **AI / ML**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnbekele&" alt="johnbekele" /></p>
+```{=html}
+<p align="left">
+```
+`<img src="https://skillicons.dev/icons?i=tensorflow&perline=10" />`{=html}
+```{=html}
+</p>
+```
+## 📚 **Featured Project: Book & Memories**
 
+A platform where readers can:
+
+-   Share personal book experiences\
+-   Discover new reads\
+-   Connect with others via meaningful stories
+
+🔗 Repo: **https://github.com/johnbekele/Book-and-Memories.git**
+
+## 📊 GitHub Stats
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=johnbekele&show_icons=true&theme=default" height="160" />`{=html}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnbekele&theme=default" height="160" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbekele&layout=compact" height="160" />`{=html}
+```{=html}
+</p>
+```
+## 🤝 **Connect With Me**
+
+```{=html}
+<p align="left">
+```
+`<a href="mailto:yohansdemisie@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail" />`{=html}`</a>`{=html}
+`<a href="https://yohansportifolio.vercel.app/">`{=html}`<img src="https://skillicons.dev/icons?i=web" />`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
