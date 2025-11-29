@@ -34,9 +34,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnbekele&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnbekele&show_icons=true&locale=en&layout=compact" alt="johnbekele" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnbekele&show_icons=true&locale=en" alt="johnbekele" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnbekele&" alt="johnbekele" /></p>
 
