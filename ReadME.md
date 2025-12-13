@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **LLM based application for Thomson reuters **
 
-- 🌱 I'm currently learning **terrafom , AWS best practice ,AWS CI/CD pipeline , AWS AI/ML pipe line , Claude agent SDK , **
+- 🌱 I'm currently learning **Pulumi , AWS best practice ,AWS CI/CD pipeline , AWS AI/ML pipe line , Claude agent SDK , **
 
 - 👯 I'm looking to collaborate on **Book memories here people can share their experiences with books, discover new reads, and connect with others who share similar interests https://github.com/johnbekele/Book-and-Memories.git**
 
