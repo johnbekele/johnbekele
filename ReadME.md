@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnbekele" alt="johnbekele" /></a> </p>
 
-- 🔭 I'm currently working on **LLM based application for Thomson reuters **
+- 🔭 I'm currently working on **LLM based Project**
 
 - 🌱 I'm currently learning **Pulumi , AWS best practice ,AWS CI/CD pipeline , AWS AI/ML pipe line , Claude agent SDK , **
 
