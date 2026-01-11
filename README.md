@@ -1,13 +1,67 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=John%20Bekele&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descSize=16&descAlignY=55&descAlign=50"/>
 
+<!-- QUICK STATS DASHBOARD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Repos-87+-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Total_Contributions-2000+-3fb950?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Years_Coding-5+-f78166?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=johnbekele&style=for-the-badge&color=a371f7&labelColor=0d1117&label=VISITORS"/>
+</p>
+
+<!-- LANGUAGE BREAKDOWN -->
+<h3 align="center">📊 Language Proficiency</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-40%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Python-25%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Shell-8%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/HCL-5%25-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Go-2%25-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0d1117"/>
+</p>
+
+<!-- IaC & CI/CD EXPERTISE -->
+<table align="center">
+<tr>
+<td align="center">
+
+**🏗️ Infrastructure as Code**
+
+<p>
+  <img src="https://img.shields.io/badge/Pulumi-Expert-8A3391?style=for-the-badge&logo=pulumi&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CloudFormation-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+</p>
+
+</td>
+<td align="center">
+
+**⚡ CI/CD & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/AWS_CodePipeline-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- CLOUD & CONTAINER -->
+<h3 align="center">☁️ Cloud & Container Orchestration</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EC2_|_Lambda_|_ECS_|_EKS_|_S3_|_RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-Production_Ready-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Kubernetes-EKS_Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Serverless-Lambda_Expert-FF9900?style=flat-square&logo=awslambda&logoColor=white&labelColor=0d1117"/>
+</p>
+
 <p align="center">
   <a href="https://yohansportifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:yohansdemisie@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/johnbekele"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnbekele&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -57,7 +111,7 @@ const johnbekele = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnbekele&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb"/>
 </p>
 
-<h3 align="center">Watch my contributions get eaten by a snake!</h3>
+<h3 align="center">🐍 Watch my contributions get eaten!</h3>
 
 <p align="center">
   <picture>
