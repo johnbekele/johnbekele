@@ -2,21 +2,23 @@
 
 <!-- QUICK STATS DASHBOARD -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Repos-87+-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Total_Contributions-2000+-3fb950?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Years_Coding-5+-f78166?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Public_Repos-87-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Total_Commits-548+-3fb950?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/On_GitHub_Since-2024-f78166?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
   <img src="https://komarev.com/ghpvc/?username=johnbekele&style=for-the-badge&color=a371f7&labelColor=0d1117&label=VISITORS"/>
 </p>
 
-<!-- LANGUAGE BREAKDOWN -->
-<h3 align="center">📊 Language Proficiency</h3>
+<!-- LANGUAGE BREAKDOWN (Based on actual repo data) -->
+<h3 align="center">📊 Language Distribution (by repositories)</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-40%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Python-25%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Shell-8%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/HCL-5%25-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Go-2%25-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-50%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Python-21%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/EJS-7%25-a91e50?style=flat-square&logo=ejs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CSS-6%25-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/HTML-6%25-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Shell-4%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TypeScript-3%25-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/HCL-1%25-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0d1117"/>
 </p>
 
 <!-- IaC & CI/CD EXPERTISE -->
@@ -27,9 +29,9 @@
 **🏗️ Infrastructure as Code**
 
 <p>
-  <img src="https://img.shields.io/badge/Pulumi-Expert-8A3391?style=for-the-badge&logo=pulumi&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/CloudFormation-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Pulumi-Learning-8A3391?style=for-the-badge&logo=pulumi&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Terraform-Learning-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CloudFormation-Exploring-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
 </p>
 
 </td>
@@ -38,9 +40,9 @@
 **⚡ CI/CD & Automation**
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/AWS_CodePipeline-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-Active-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Jenkins-Learning-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/AWS_CodePipeline-Exploring-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
 </p>
 
 </td>
@@ -53,9 +55,9 @@
   <img src="https://img.shields.io/badge/AWS-EC2_|_Lambda_|_ECS_|_EKS_|_S3_|_RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-Production_Ready-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Kubernetes-EKS_Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Serverless-Lambda_Expert-FF9900?style=flat-square&logo=awslambda&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Serverless-Practicing-FF9900?style=flat-square&logo=awslambda&logoColor=white&labelColor=0d1117"/>
 </p>
 
 <p align="center">
@@ -75,7 +77,7 @@
 const johnbekele = {
     pronouns: "he" | "him",
     location: "Building in the Cloud",
-    code: ["TypeScript", "Python", "JavaScript", "Go"],
+    code: ["JavaScript", "Python", "TypeScript", "Shell"],
     architecture: ["microservices", "serverless", "event-driven"],
     cloud: {
         aws: ["EC2", "Lambda", "ECS", "EKS", "S3", "RDS", "DynamoDB", "CloudFront"],
@@ -135,10 +137,9 @@ const johnbekele = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Commits-1000+-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/⭐_Stars_Earned-50+-f0c14b?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🔀_Pull_Requests-200+-a371f7?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/📝_Issues-100+-3fb950?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏆_Commits-548+-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📦_Repositories-87-f0c14b?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/👥_Followers-1-a371f7?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 ---
@@ -317,16 +318,16 @@ const johnbekele = {
 </tr>
 <tr>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br><b>TypeScript</b>
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><b>JavaScript</b>
 </td>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
 <br><b>Python</b>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br><b>TypeScript</b>
 </td>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
