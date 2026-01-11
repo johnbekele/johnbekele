@@ -124,6 +124,26 @@ const johnbekele = {
 ---
 
 <h2>
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="28">
+  Achievements
+</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=johnbekele&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15&rank=-C,-B" alt="johnbekele" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Commits-1000+-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-50+-f0c14b?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🔀_Pull_Requests-200+-a371f7?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📝_Issues-100+-3fb950?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+---
+
+<h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
   Cloud Architecture Projects
 </h2>
@@ -348,17 +368,6 @@ const johnbekele = {
 </td>
 </tr>
 </table>
-
----
-
-<h2>
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="28">
-  Trophies
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnbekele&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-</p>
 
 ---
 
