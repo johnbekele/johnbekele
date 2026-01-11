@@ -75,14 +75,13 @@
 
 ```js
 const johnbekele = {
-    pronouns: "he" | "him",
     location: "Building in the Cloud",
     code: ["JavaScript", "Python", "TypeScript", "Shell"],
     architecture: ["microservices", "serverless", "event-driven"],
     cloud: {
         aws: ["EC2", "Lambda", "ECS", "EKS", "S3", "RDS", "DynamoDB", "CloudFront"],
-        iac: ["Terraform", "Pulumi", "CloudFormation"],
-        cicd: ["GitHub Actions", "Jenkins", "AWS CodePipeline"]
+        iac: ["Terraform", "Pulumi"],
+        cicd: ["GitHub Actions", "Jenkins", "AWS CodePipeline","AWS CodeBuild"]
     },
     currentFocus: "Building visual cloud architecture tools",
     funFact: "I break things to understand how they work, then build them better"
