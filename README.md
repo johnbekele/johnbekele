@@ -57,6 +57,16 @@ const johnbekele = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnbekele&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb"/>
 </p>
 
+<h3 align="center">Watch my contributions get eaten by a snake!</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnbekele/johnbekele/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/johnbekele/johnbekele/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/johnbekele/johnbekele/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
 ---
 
 <h2>
